@@ -14,6 +14,8 @@
 </div>
 <p></p>
 
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnF0bnZoOWtoanpseGF3bTc1NmI4bWcyZzR5M3Z1OGtpYXd3MmZsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8A2CLpJJW5d3NR5Tt/giphy.gif" alt="Descripción del GIF" width="150" />
+
 <p align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="35" title="Javascript">   
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="35" title="TypeScript">   
