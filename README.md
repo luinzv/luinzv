@@ -65,10 +65,29 @@
     />
   </a>
 </div>
+<br><br>
 
+<img src="https://media.tenor.com/Hp8rb6NrNboAAAAi/cat-nodding.gif" width="27px" >&nbsp; ***About me***
 
+I am an undergraduate Software Engineering student at Universidad de Playa Ancha.
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+I enjoy building scalable, secure and efficient backend systems. I'm currently focused on modern web technologies and cloud infrastructure.  
+I have hands-on experience with **React**, **Next.js**, **PostgreSQL**, **Redis**, **Docker**, **AWS**, and I'm deeply interested in **Microservices** architecture and **Cybersecurity**.
+
+- 🚀 I’m currently learning:
+  - Next.js
+  - PostgreSQL
+- 🛠️ Tech stack I'm working with:
+  - React, Next.js, PostgreSQL, Redis, Docker, AWS
+- 🧩 Interested in:
+  - Microservices
+  - Cybersecurity
+  - Distributed Systems
+- 🤝 I’m open to collaborate on backend-related projects or DevOps practices
+- 💬 Ask me anything about my stack — happy to share what I know!
+- ⚽ Outside of tech, I love playing football and staying active with workouts 💪
+- 📫 Contact me: <a href="mailto:tu.correo@ejemplo.com">tu.correo@ejemplo.com</a>
+
 
 <br>
 <p align="center">
