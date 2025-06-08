@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm luinzv <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
+<h1 align="left">Hi, I'm luinzv <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="left" style="display: flex; align-items: center; gap: 5px;">
   <img
