@@ -91,5 +91,5 @@ I have hands-on experience with **React**, **Next.js**, **PostgreSQL**, **Redis*
 
 <br>
 <p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=luinzv&theme=tokyonight_duo&hide_border=true"
 </p>
