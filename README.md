@@ -29,28 +29,28 @@
 
 <br>
 <div align="left">
-  <a href="https://www.instagram.com/TU_USUARIO/" target="_blank" decoration="none">
+  <a href="https://www.instagram.com/luinnzv/" target="_blank" decoration="none">
     <img
       src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram"
       style="display:block; height: 25px; width: auto; margin-bottom: 4px;"
     />
   </a>
-  <a href="https://www.tiktok.com/@TU_USUARIO" target="_blank" decoration="none">
+  <a href="https://www.tiktok.com/@rsaikoo" target="_blank" decoration="none">
     <img
       src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white"
       alt="TikTok"
       style="display:block; height: 25px; width: auto; margin-bottom: 4px;"
     />
   </a>
-  <a href="https://discord.com/users/TU_USUARIO" target="_blank" decoration="none">
+  <a href="https://discord.com/users/357655604476641280" target="_blank" decoration="none">
     <img
       src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
       alt="Discord"
       style="display:block; height: 25px; width: auto; margin-bottom: 4px;"
     />
   </a>
-  <a href="mailto:TU_USUARIO@gmail.com" target="_blank" decoration="none">
+  <a href="mailto:luis.contreras.dev.02@gmail.com" target="_blank" decoration="none">
     <img
       src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"
       alt="Email"
