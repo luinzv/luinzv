@@ -17,14 +17,14 @@
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnF0bnZoOWtoanpseGF3bTc1NmI4bWcyZzR5M3Z1OGtpYXd3MmZsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8A2CLpJJW5d3NR5Tt/giphy.gif" alt="Descripción del GIF" width="150" />
 
 <p align="left">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="35" title="Javascript">   
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="35" title="TypeScript">   
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="35" title="React.Js"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="38" title="HTML"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="35" title="TailWindCss">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="35" title="Netlify">  
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="35" title="Git">  
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="35" title="MongoDB">  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32" title="Javascript">   
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="32" title="TypeScript">   
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="32" title="React.Js"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="32" title="HTML"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="32" title="TailWindCss">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="32" title="Netlify">  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="32" title="Git">  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="32" title="MongoDB">  
 </p>
 
 <br>
