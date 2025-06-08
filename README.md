@@ -15,14 +15,14 @@
 <p></p>
 
 <p align="left">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="38" title="Javascript">   
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="38" title="TypeScript">   
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="38" title="React.Js"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="35" title="Javascript">   
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="35" title="TypeScript">   
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="35" title="React.Js"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="38" title="HTML"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="38" title="TailWindCss">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="38" title="Netlify">  
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="38" title="Git">  
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="38" title="MongoDB">  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="35" title="TailWindCss">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="35" title="Netlify">  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="35" title="Git">  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="35" title="MongoDB">  
 </p>
 
 <br>
