@@ -3,12 +3,12 @@
 <div align="left" style="display: flex; align-items: center; gap: 5px;">
   <img
     style="height: 170px; width: auto;"
-    src="https://github-readme-stats.vercel.app/api?username=bastndev&show_icons=true&count_private=true&hide_border=false&border_color=ffffff&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=ffffff10"
+    src="https://github-readme-stats.vercel.app/api?username=luinzv&show_icons=true&count_private=true&hide_border=false&border_color=ffffff&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=ffffff10"
     alt="Luis Dev github stats"
   />
   <img
     style="height: 170px; width: auto;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastndev&layout=compact&hide_border=false&border_color=ffffff&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=ffffff10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luinzv&layout=compact&hide_border=false&border_color=ffffff&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=ffffff10"
     alt="Luis Dev top languages"
   />
 </div>
@@ -73,7 +73,7 @@ I am an undergraduate Software Engineering student at Universidad de Playa Ancha
 
 I enjoy building scalable, secure and efficient backend systems. I'm currently focused on modern web technologies and cloud infrastructure.  
 I have hands-on experience with **React**, **Next.js**, **PostgreSQL**, **Redis**, **Docker**, **AWS**, and I'm deeply interested in **Microservices** architecture and **Cybersecurity**.
-
+<br>
 - 🚀 I’m currently learning:
   - Next.js
   - PostgreSQL
@@ -86,7 +86,7 @@ I have hands-on experience with **React**, **Next.js**, **PostgreSQL**, **Redis*
 - 🤝 I’m open to collaborate on backend-related projects or DevOps practices
 - 💬 Ask me anything about my stack — happy to share what I know!
 - ⚽ Outside of tech, I love playing football and staying active with workouts 💪
-- 📫 Contact me: <a href="mailto:tu.correo@ejemplo.com">tu.correo@ejemplo.com</a>
+- 📫 Contact me: <a href="mailto:luis.contreras.dev.02@gmail.com">luis.contreras.dev.02@gmail.com</a>
 
 
 <br>
